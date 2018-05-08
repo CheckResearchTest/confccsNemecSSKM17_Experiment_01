@@ -1,6 +1,6 @@
-# CheckResearch.org [Experiment](https://checkresearch.org/Experiment/View/fae3f9e6-69bc-46d2-8cb3-97440a6874be)
+# CheckResearch.org [Experiment](https://checkresearch.org/Experiment/View/af031625-2611-44f2-86b1-bd7a6569ad57)
 
- Publication [" The Return of Coppersmith's Attack: Practical Factorization of Widely Used RSA Moduli"](https://dblp.uni-trier.de/rec/html/conf/ccs/NemecSSKM17) by "Matús Nemec, Marek Sýs, Petr Svenda, Dusan Klinec, Vashek Matyas"
+ Publication ["The Return of Coppersmith's Attack: Practical Factorization of Widely Used RSA Moduli."](https://dblp.uni-trier.de/rec/html/conf/ccs/NemecSSKM17) by "Matús Nemec, Marek Sýs, Petr Svenda, Dusan Klinec, Vashek Matyas"
 
 ## HOWTO
 
